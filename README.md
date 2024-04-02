@@ -18,9 +18,9 @@ Usage
 The script will launch a Chrome browser, navigate to the specified Google Form, and automate the form submission process.
 Once the form submission is complete, the browser will close automatically.
 
-Note
+Note:
 This automation script is specifically designed for the provided Google Form structure. Any modifications to the form structure may require corresponding changes to the script.
 Ensure you have a stable internet connection while running the script to avoid any disruptions during form submission.
 
-License
+License:
 This project is licensed under the MIT License. Feel free to modify and distribute the code for your own purposes.
